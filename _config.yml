@@ -21,7 +21,7 @@ navbar-links:
   Projects:
   Blog: 
   Résumé:
-    - Résumé: https://github.com/ChinmaySonar/chinmaysonar.github.io/blob/main/docs/Chinmay_Resume.pdf
+    - Résumé: chinmaysonar.github.io/docs/Chinmay_Resume.pdf
     - CV: "dummy link"
 #  Author's home: "https://chinmaysonar.github.io/"
 
@@ -193,7 +193,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
