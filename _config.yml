@@ -20,7 +20,9 @@ navbar-links:
     - Thesis: "https://www.markdowntutorial.com/"
   Projects:
   Blog: 
-  Résumé: 
+  Résumé:
+    - Résumé: https://github.com/ChinmaySonar/chinmaysonar.github.io/blob/main/docs/Chinmay_Resume.pdf
+    - CV: "dummy link"
 #  Author's home: "https://chinmaysonar.github.io/"
 
 # --- Logo --- #
