@@ -16,8 +16,8 @@ author: Chinmay Sonar
 navbar-links:
   #About Me: "aboutme"
   Research:
-    - Publications: "https://beautifuljekyll.com"
-    - Thesis: "https://www.markdowntutorial.com/"
+    - Publications: "/Research/publications"
+    - Thesis: "/Research/thesis"
   Projects:
   Blog: 
   Résumé:
