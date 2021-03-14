@@ -9,3 +9,8 @@ with [NM], [PRV], [RV]
 (manuscript submitted for publication)
 
 ## Publications
+
+
+[NM]: Neeldhara Misra
+[PRV]: P. R. Vaidyanathan
+[RV]: Rohit Vaish
