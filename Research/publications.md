@@ -13,6 +13,8 @@ with Úrsula Hébert-Johnson, Subhash Suri and Vaishali Surianarayan\
 **Equitable Division of a Path**\
 with Neeldhara Misra, P. R. Vaidyanathan and Rohit Vaish\
 (manuscript submitted for publication)\
+<a hreaf= "chinmaysonar.github.io/Research/eq-path.pdf" target = "_blank">PDF</a>-
+
 [arXiv](https://arxiv.org/abs/2101.09794#:~:text=We%20study%20fair%20resource%20allocation,be%20allocated%20to%20the%20agents.)
 
 ## Publications
