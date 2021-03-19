@@ -20,13 +20,13 @@ with Neeldhara Misra, P. R. Vaidyanathan and Rohit Vaish\
 **Fair Covering of Points by Balls**\
 with Daniel Lokshtanov, Subhash Suri and Jie Xue\
 In [32nd Canadian Conference on Computational Geometry (CCCG'20)](https://www.cccg.ca/), Saskatoon, Canada\
-[pdf]() - <a href= "https://chinmaysonar.github.io/Research/Fair-Covering-by-Balls-slides.pdf" target = "_blank">Slides</a>
+<a href= "https://chinmaysonar.github.io/Research/Fair-Covering-by-Balls.pdf" target = "_blank">PDF</a> - <a href= "https://chinmaysonar.github.io/Research/Fair-Covering-by-Balls-slides.pdf" target = "_blank">Slides</a>
 
 
 **On the Complexity of Winner Verification and Candidate Winner for Multiwinner Voting Rules**\
 with Neeldhara Misra and Palash Dey\
 In [International Joint Conference on Artificial Intelligence (IJCAI'20)](https://ijcai20.org/), Yokohama, Japan\
-[pdf]() - <a href= "https://chinmaysonar.github.io/Research/multiwinner-hard-slides.pdf" target = "_blank">Slides</a>
+<a href= "https://chinmaysonar.github.io/Research/multiwinner-hard.pdf" target = "_blank">PDF</a> - <a href= "https://chinmaysonar.github.io/Research/multiwinner-hard-slides.pdf" target = "_blank">Slides</a>
 
 
 **Robustness radius for Chamberlin-Courant on restricted domains**\
