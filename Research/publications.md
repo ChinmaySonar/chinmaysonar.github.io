@@ -33,12 +33,13 @@ In [International Joint Conference on Artificial Intelligence (IJCAI'20)](https:
 with Neeldhara Misra\
 In [International Conference on Current Trends in Theory and Practice of Informatics (SOFSEM'19)](https://beda.dcs.fmph.uniba.sk/sofsem2019/), Nový Smokovec, Slovakia
 <br> 
-[pdf]() - <a href= "https://chinmaysonar.github.io/Research/robustness-CC-restricted-slides.pdf" target = "_blank">Slides</a>
+
+<a href= "https://chinmaysonar.github.io/Research/robustness-CC-restricted.pdf" target = "_blank">PDF</a> - <a href= "https://chinmaysonar.github.io/Research/robustness-CC-restricted-slides.pdf" target = "_blank">Slides</a>
 
 **On the complexity of Chamberlin-Courant on almost structured profiles**\
 with Neeldhara Misra, P. R. Vaidyanatha\
 In [International Conference on Algorithmic Decision Theory (ADT'17)](https://link.springer.com/book/10.1007/978-3-319-67504-6), Luxembourg, Luxembourg\
-[pdf]() - <a href= "https://chinmaysonar.github.io/Research/CC-almost-structured-slides.pdf" target = "_blank">Slides</a>
+<a href= "https://chinmaysonar.github.io/Research/CC-almost-structured.pdf" target = "_blank">PDF</a> - <a href= "https://chinmaysonar.github.io/Research/CC-almost-structured-slides.pdf" target = "_blank">Slides</a>
 
 <!-- [NM]: Neeldhara Misra
 [PRV]: P. R. Vaidyanathan
