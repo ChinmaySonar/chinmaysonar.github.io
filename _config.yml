@@ -22,7 +22,7 @@ navbar-links:
   Blog: 
   Résumé:
     - Résumé: "/docs/Chinmay_Resume.pdf/"
-    - CV: "/docs/Chinmay_CV.pdf"
+    - CV: "https://chinmaysonar.github.io/docs/Chinmay_CV.pdf"
 #  Author's home: "https://chinmaysonar.github.io/"
 
 # --- Logo --- #
