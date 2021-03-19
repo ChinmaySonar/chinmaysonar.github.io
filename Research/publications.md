@@ -32,7 +32,7 @@ In [International Joint Conference on Artificial Intelligence (IJCAI'20)](https:
 **Robustness radius for Chamberlin-Courant on restricted domains**\
 with Neeldhara Misra\
 In [International Conference on Current Trends in Theory and Practice of Informatics (SOFSEM'19)](https://beda.dcs.fmph.uniba.sk/sofsem2019/), Nový Smokovec, Slovakia
-\ 
+<br> 
 [pdf]() - <a href= "https://chinmaysonar.github.io/Research/robustness-CC-restricted-slides.pdf" target = "_blank">Slides</a>
 
 **On the complexity of Chamberlin-Courant on almost structured profiles**\
