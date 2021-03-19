@@ -8,36 +8,36 @@ meta-title: Chinmay Sonar - Research
 
 **Anonymity Preserving Space Partitions**\
 with Úrsula Hébert-Johnson, Subhash Suri and Vaishali Surianarayan\
-(manuscript submitted for publication)\
+(manuscript submitted for publication)
 
 **Equitable Division of a Path**\
 with Neeldhara Misra, P. R. Vaidyanathan and Rohit Vaish\
 (manuscript submitted for publication)\
-[arxiv](https://arxiv.org/abs/2101.09794#:~:text=We%20study%20fair%20resource%20allocation,be%20allocated%20to%20the%20agents.)\
+[arXiv](https://arxiv.org/abs/2101.09794#:~:text=We%20study%20fair%20resource%20allocation,be%20allocated%20to%20the%20agents.)
 
 ## Publications
 
 **Fair Covering of Points by Balls**\
 with Daniel Lokshtanov, Subhash Suri and Jie Xue\
 In [32nd Canadian Conference on Computational Geometry (CCCG'20)](https://www.cccg.ca/), Saskatoon, Canada\
-[pdf]() - [Slides]()\
+[pdf]() - [Slides]()
 
 
 **On the Complexity of Winner Verification and Candidate Winner for Multiwinner Voting Rules**\
 with Neeldhara Misra and Palash Dey\
 In [International Joint Conference on Artificial Intelligence (IJCAI'20)](https://ijcai20.org/), Yokohama, Japan\
-[pdf]() - [Slides]()\
+[pdf]() - [Slides]()
 
 
 **Robustness radius for Chamberlin-Courant on restricted domains**\
 with Neeldhara Misra\
 In [International Conference on Current Trends in Theory and Practice of Informatics (SOFSEM'19)](https://beda.dcs.fmph.uniba.sk/sofsem2019/), Nový Smokovec, Slovakia\ 
-[pdf]() - [Slides]()\
+[pdf]() - [Slides]()
 
 **On the complexity of Chamberlin-Courant on almost structured profiles**\
 with Neeldhara Misra, P. R. Vaidyanatha\
 In [International Conference on Algorithmic Decision Theory (ADT'17)](https://link.springer.com/book/10.1007/978-3-319-67504-6), Luxembourg, Luxembourg\
-[pdf]() - [Slides]()\
+[pdf]() - [Slides]()
 
 <!-- [NM]: Neeldhara Misra
 [PRV]: P. R. Vaidyanathan
