@@ -19,7 +19,7 @@ author: Chinmay Sonar
 # url is the the website domain URL without a trailing slash
 url: "https://chinmaysonar.github.io"
 
-baseurl: ""
+baseurl: "/chinmaysonar.github.io"
 
 # --- List of links in the navigation bar --- #
 
