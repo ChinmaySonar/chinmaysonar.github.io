@@ -8,7 +8,7 @@ meta-title: Chinmay Sonar - Thesis
 
 <a href= "https://chinmaysonar.github.io/Research/MTech_Thesis.pdf" target = "_blank">PDF</a> - <a href= "https://chinmaysonar.github.io/Research/MTech-Thesis-slides.pdf" target = "_blank">Slides</a>
 
-<Abstract open>
+<details open>
 <summary>Abstract</summary>
 <br>
 Social Choice is the formalized study of the aggregation of individual preferences towardscollective decision making. The task of checking the feasibility of the preference aggregationschemes  in  the  real  world  context  comes  under  Computational Social Choice (COMSOC).In this thesis, we consider the problems from the three pillars of COMSOC - Voting,  FairDivision, and Matching under Preferences.  
@@ -23,7 +23,7 @@ Several appealing aggregation schemes turn out to be computationally hard.  The 
 -**Fair Division**: We study fair allocation of indivisible items arranged on a path under the constraint that only connected subsets of items may be allocated to the agents. We study the problem for both Envyfreeness (EF1) and Equitability (EQ1). We show that achieving EF1 or EQ1 in conjunction with well-studied measures of efficiency (such as Pareto optimality, non-wastefulness, maximum egalitarian or utilitarian welfare) is computationally hard even for binary valuations. On the algorithmic side, we show that for any fixed ordering of agents, an Eq1 allocation with the highest egalitarian welfare among all consistent allocations can be efficiently computed. For structured binary valuations, we obtain polynomial-time algorithms for non-wasteful and pareto optimal EF1 and EQ1 allocations.
 <br>
 
-</Abstract>
+</details>
 
 <!-- <Abstract open>
 
