@@ -21,7 +21,7 @@ navbar-links:
   Projects:
   Blog: 
   Résumé:
-    - Résumé: - <a href="chinmaysonar.github.io/docs/Chinmay_Resume.pdf" target="_blank">Resume.</a>
+    - Résumé: - "https://chinmaysonar.github.io/docs/Chinmay_Resume.pdf"
     - CV: "https://chinmaysonar.github.io/docs/Chinmay_CV.pdf"
 #  Author's home: "https://chinmaysonar.github.io/"
 
