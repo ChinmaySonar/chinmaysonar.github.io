@@ -30,9 +30,9 @@ navbar-links:
     - Thesis: "/Research/thesis"
   Projects:
   Blog: 
-  Résumé:
-    - Résumé: "/docs/Chinmay_Resume.pdf"
-    - CV: "/docs/Chinmay_CV.pdf"
+  Résumé: "/docs/Chinmay_Resume.pdf"
+    # - Résumé: "/docs/Chinmay_Resume.pdf"
+    # - CV: "/docs/Chinmay_CV.pdf"
 #  Author's home: "https://chinmaysonar.github.io/"
 
 # --- Logo --- #
