@@ -6,6 +6,11 @@ meta-title: Chinmay Sonar - Thesis
 
 ### Problems in Computational Social Choice on Restricted Domains
 
+Checkout markdown list  
+
+- Item 1
+- Item 2
+
 <a href= "https://chinmaysonar.github.io/Research/MTech_Thesis.pdf" target = "_blank">PDF</a> - <a href= "https://chinmaysonar.github.io/Research/MTech-Thesis-slides.pdf" target = "_blank">Slides</a>
 
 <details open>
@@ -18,11 +23,12 @@ Several appealing aggregation schemes turn out to be computationally hard.  The 
 <br>
 <br>
 
-    - **Voting**: Our work in voting mainly focuses on the Chamberlin Courant (CC) voting rule. Several fundamental problems such as winner determination has been shown to be hard on for CC rule. We focus on the restricted and nearly restricted domains for this problem. Our work provides a fine-grained analysis of the boundary between tractability and intractability using parametric analysis. We also consider the effect of small perturbations in election instance formally captured by the concept of the robustness radius and provide an XP algorithms along with the matching hardness results.
+- **Voting**: Our work in voting mainly focuses on the Chamberlin Courant (CC) voting rule. Several fundamental problems such as winner determination has been shown to be hard on for CC rule. We focus on the restricted and nearly restricted domains for this problem. Our work provides a fine-grained analysis of the boundary between tractability and intractability using parametric analysis. We also consider the effect of small perturbations in election instance formally captured by the concept of the robustness radius and provide an XP algorithms along with the matching hardness results.
 
-    - **Stable Matching**: For many hard matching problems, we show that the hardness persists even the domain restrictions. We also provide an interesting addition to a class of instances which admit a unique stable matching (marriage for the bipartite case). We introduce a new variant of the matching problem called ’Matching Critical Sets’ and pin down the complexity of the same. Finally, we work on the special cases of (a,b)-supermatch. We also analyze the performance of the Gale-Shapley mechanism on instances with restricted domains through simulations.
+- **Stable Matching**: For many hard matching problems, we show that the hardness persists even the domain restrictions. We also provide an interesting addition to a class of instances which admit a unique stable matching (marriage for the bipartite case). We introduce a new variant of the matching problem called ’Matching Critical Sets’ and pin down the complexity of the same. Finally, we work on the special cases of (a,b)-supermatch. We also analyze the performance of the Gale-Shapley mechanism on instances with restricted domains through simulations.
 
-    - **Fair Division**: We study fair allocation of indivisible items arranged on a path under the constraint that only connected subsets of items may be allocated to the agents. We study the problem for both Envyfreeness (EF1) and Equitability (EQ1). We show that achieving EF1 or EQ1 in conjunction with well-studied measures of efficiency (such as Pareto optimality, non-wastefulness, maximum egalitarian or utilitarian welfare) is computationally hard even for binary valuations. On the algorithmic side, we show that for any fixed ordering of agents, an Eq1 allocation with the highest egalitarian welfare among all consistent allocations can be efficiently computed. For structured binary valuations, we obtain polynomial-time algorithms for non-wasteful and pareto optimal EF1 and EQ1 allocations.
+- **Fair Division**: We study fair allocation of indivisible items arranged on a path under the constraint that only connected subsets of items may be allocated to the agents. We study the problem for both Envyfreeness (EF1) and Equitability (EQ1). We show that achieving EF1 or EQ1 in conjunction with well-studied measures of efficiency (such as Pareto optimality, non-wastefulness, maximum egalitarian or utilitarian welfare) is computationally hard even for binary valuations. On the algorithmic side, we show that for any fixed ordering of agents, an Eq1 allocation with the highest egalitarian welfare among all consistent allocations can be efficiently computed. For structured binary valuations, we obtain polynomial-time algorithms for non-wasteful and pareto optimal EF1 and EQ1 allocations.
+
 <br>
 
 </details>
