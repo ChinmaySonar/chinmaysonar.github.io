@@ -13,6 +13,8 @@ author: Chinmay Sonar
 
 # --- List of links in the navigation bar --- #
 
+baseurl: ""
+
 navbar-links:
   #About Me: "aboutme"
   Research:
@@ -21,8 +23,8 @@ navbar-links:
   Projects:
   Blog: 
   Résumé:
-    # - Résumé: - "https://chinmaysonar.github.io/docs/Chinmay_Resume.pdf"
-    # - CV: "https://chinmaysonar.github.io/docs/Chinmay_CV.pdf"
+    - Résumé: - "/docs/Chinmay_Resume.pdf"
+    - CV: "/docs/Chinmay_CV.pdf"
 #  Author's home: "https://chinmaysonar.github.io/"
 
 # --- Logo --- #
