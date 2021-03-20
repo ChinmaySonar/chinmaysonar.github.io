@@ -25,6 +25,8 @@ Several appealing aggregation schemes turn out to be computationally hard.  The 
 
 <li> **Fair Division**: We study fair allocation of indivisible items arranged on a path under the constraint that only connected subsets of items may be allocated to the agents. We study the problem for both Envyfreeness (EF1) and Equitability (EQ1). We show that achieving EF1 or EQ1 in conjunction with well-studied measures of efficiency (such as Pareto optimality, non-wastefulness, maximum egalitarian or utilitarian welfare) is computationally hard even for binary valuations. On the algorithmic side, we show that for any fixed ordering of agents, an Eq1 allocation with the highest egalitarian welfare among all consistent allocations can be efficiently computed. For structured binary valuations, we obtain polynomial-time algorithms for non-wasteful and pareto optimal EF1 and EQ1 allocations. <li>
 
+</ul>
+
 <br>
 
 </details>
