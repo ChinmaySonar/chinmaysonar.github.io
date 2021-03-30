@@ -7,7 +7,7 @@ meta-title: Chinmay Sonar - Research
 ## Working Papers
 
 **Anonymity Preserving Space Partitions**\
-with Úrsula Hébert-Johnson, Subhash Suri and Vaishali Surianarayan\
+with Úrsula Hébert-Johnson, Subhash Suri and Vaishali Surianarayanan\
 (manuscript submitted for publication)
 
 **Equitable Division of a Path**\
