@@ -10,12 +10,13 @@ meta-title: Chinmay Sonar - Research
 with Úrsula Hébert-Johnson, Subhash Suri and Vaishali Surianarayanan\
 (manuscript submitted for publication)
 
-**Equitable Division of a Path**\
-with Neeldhara Misra, P. R. Vaidyanathan and Rohit Vaish\
-(manuscript submitted for publication)\
-<a href= "https://chinmaysonar.github.io/Research/eq-path.pdf" target = "_blank">PDF</a> - [arXiv](https://arxiv.org/abs/2101.09794#:~:text=We%20study%20fair%20resource%20allocation,be%20allocated%20to%20the%20agents.) - <a href= "https://chinmaysonar.github.io/Research/eq-path-slides-short.pdf" target = "_blank">Slides</a>
 
 ## Publications
+
+**Equitable Division of a Path**\
+with Neeldhara Misra, P. R. Vaidyanathan and Rohit Vaish\
+(accepted at COMSOC 2021 poster session)\
+<a href= "https://chinmaysonar.github.io/Research/eq-path.pdf" target = "_blank">PDF</a> - [arXiv](https://arxiv.org/abs/2101.09794#:~:text=We%20study%20fair%20resource%20allocation,be%20allocated%20to%20the%20agents.) - <a href= "https://chinmaysonar.github.io/Research/eq-path-slides-short.pdf" target = "_blank">Slides</a> - <a href= "https://chinmaysonar.github.io/Research/eq-path-poster.pdf" target = "_blank">Poster</a>
 
 **Fair Covering of Points by Balls**\
 with Daniel Lokshtanov, Subhash Suri and Jie Xue\
@@ -26,7 +27,7 @@ In [32nd Canadian Conference on Computational Geometry (CCCG'20)](https://www.cc
 **On the Complexity of Winner Verification and Candidate Winner for Multiwinner Voting Rules**\
 with Neeldhara Misra and Palash Dey\
 In [International Joint Conference on Artificial Intelligence (IJCAI'20)](https://ijcai20.org/), Yokohama, Japan\
-<a href= "https://chinmaysonar.github.io/Research/multiwinner-hard.pdf" target = "_blank">PDF</a> - <a href= "https://chinmaysonar.github.io/Research/multiwinner-hard-slides.pdf" target = "_blank">Slides</a>
+<a href= "https://chinmaysonar.github.io/Research/multiwinner-hard.pdf" target = "_blank">PDF</a> - <a href= "https://chinmaysonar.github.io/Research/multiwinner-hard-slides.pdf" target = "_blank">Slides</a> - <a href= "https://chinmaysonar.github.io/Research/multiwinner-hard-poster.pdf" target = "_blank">Poster</a>
 
 
 **Robustness radius for Chamberlin-Courant on restricted domains**\
