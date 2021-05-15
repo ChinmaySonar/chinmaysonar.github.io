@@ -15,7 +15,7 @@ with Úrsula Hébert-Johnson, Subhash Suri and Vaishali Surianarayanan\
 
 **Equitable Division of a Path**\
 with Neeldhara Misra, P. R. Vaidyanathan and Rohit Vaish\
-(accepted at COMSOC 2021)\
+(accepted at [COMSOC 2021](https://comsoc2021.net.technion.ac.il/))\
 <a href= "https://chinmaysonar.github.io/Research/eq-path.pdf" target = "_blank">PDF</a> - [arXiv](https://arxiv.org/abs/2101.09794#:~:text=We%20study%20fair%20resource%20allocation,be%20allocated%20to%20the%20agents.) - <a href= "https://chinmaysonar.github.io/Research/eq-path-slides-short.pdf" target = "_blank">Slides</a> - <a href= "https://chinmaysonar.github.io/Research/eq-path-poster.pdf" target = "_blank">Poster</a>
 
 **Fair Covering of Points by Balls**\
