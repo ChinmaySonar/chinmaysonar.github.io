@@ -6,12 +6,17 @@ meta-title: Chinmay Sonar - Research
 
 ## Working Papers
 
-**Anonymity Preserving Space Partitions**\
-with Úrsula Hébert-Johnson, Subhash Suri and Vaishali Surianarayanan\
-(manuscript submitted for publication)
+**Multiwinner Elections under Minimax Chamberlin-Courant Rule in Euclidean Space**\
+with Subhash Suri and Jie Xue\
+(manuscript under review)
 
 
 ## Publications
+
+**Anonymity Preserving Space Partitions**\
+with Úrsula Hébert-Johnson, Subhash Suri and Vaishali Surianarayanan\
+In [32nd International Symposium on Algorithms and Computation (ISAAC'21)](https://tcs.inf.kyushu-u.ac.jp/isaac2021/apl.html), Fukuoka, Japan\
+<a href= "https://chinmaysonar.github.io/Research/anonymous-partitions.pdf" target = "_blank">PDF</a>
 
 **Equitable Division of a Path**\
 with Neeldhara Misra, P. R. Vaidyanathan and Rohit Vaish\
