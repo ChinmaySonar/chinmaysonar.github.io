@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-meta-title: Chinmay Sonar - Research
+meta-title: Chinmay Sonar - Publications
 ---
 
 ## Working Papers
