@@ -29,7 +29,7 @@ navbar-links:
     - Projects: "/Research/research-projects"
     - Publications: "/Research/publications"
     - Thesis: "/Research/thesis"
-  Projects: "/Projects"
+  Projects: "/Projects/project"
   Blog: "/Blog"
   Résumé:
      - Résumé: "/Docs/Chinmay_Resume.pdf"
