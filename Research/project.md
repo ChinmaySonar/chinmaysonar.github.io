@@ -11,7 +11,7 @@ meta-title: Chinmay Sonar - Projects
 <li>  Agent trained for 15k iterations outperforms the individual baseline algorithms for several underlying graph based models. </li>
 </ul>
 
-[Code]() - [Report](https://chinmaysonar.github.io/Projects/LuongSonarReport.pdf)
+[Report](https://chinmaysonar.github.io/Projects/LuongSonarReport.pdf)
 
 **Online Meeting Scheduler**
 <ul>
@@ -19,7 +19,7 @@ meta-title: Chinmay Sonar - Projects
 <li>  Scaled with server side caching and optimized database queries to handle 50k+ users/min. </li>
 </ul>
 
-[Code](https://github.com/scalableinternetservices/AZFanClub) - [Report]() - [Presentation]()
+[Code](https://github.com/scalableinternetservices/AZFanClub) - [Report](https://chinmaysonar.github.io/Projects/scalable-project-report.pdf) - [Presentation](https://chinmaysonar.github.io/Projects/scalable-presentation.pptx)
 
 **Electricity Generation Prediction Model** (Jan-May'19 - In collaboration with govt. of India)
 <ul>
@@ -46,9 +46,9 @@ meta-title: Chinmay Sonar - Projects
 
 **Anonymous Elections on Blockchains**
 <ul>
-<li> Developed and implemented anonymous voting protocol to conceal the voter identities% using zero-knowledge proofs. </li>
+<li> Developed and implemented anonymous voting protocol to conceal the voter identities using zero-knowledge proofs. </li>
 <li> Python implementation of the protocol scaled efficiently on a private ethereum network with only a linear time overhead compared to the conspicuous protocol. </li>
 </ul>
 
-[Code](https://github.com/grakshith/zk-priv-vote) - [Report]() - [Presentation]()
+[Code](https://github.com/grakshith/zk-priv-vote) - [Report](https://chinmaysonar.github.io/Projects/bc-zk-report.pdf) - [Presentation](https://chinmaysonar.github.io/Projects/bc-zk-slides.pdf)
 
