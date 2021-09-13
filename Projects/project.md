@@ -1,4 +1,10 @@
-Please check my [Github](https://github.com/ChinmaySonar) and [Resume](https://chinmaysonar.github.io/Docs/Chinmay_Resume.pdf)/[CV](https://chinmaysonar.github.io/Docs/Chinmay_CV.pdf) to learn about the projects I did. You can also [contact me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=csonar@cs.ucsb.edu) for more details.
+---
+layout: page
+title: Projects
+meta-title: Chinmay Sonar - Projects
+---
+
+<! -- Please check my [Github](https://github.com/ChinmaySonar) and [Resume](https://chinmaysonar.github.io/Docs/Chinmay_Resume.pdf)/[CV](https://chinmaysonar.github.io/Docs/Chinmay_CV.pdf) to learn about the projects I did. You can also [contact me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=csonar@cs.ucsb.edu) for more details.
 
 But for this page, more details will be ...
 
