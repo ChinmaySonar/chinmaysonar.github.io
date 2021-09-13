@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Publications
 meta-title: Chinmay Sonar - Publications
 ---
 
