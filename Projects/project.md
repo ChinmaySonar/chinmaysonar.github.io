@@ -29,23 +29,26 @@ meta-title: Chinmay Sonar - Projects
 
 **Python Garbage Collector Analysis**\
 <ul>
-<li>  </li>
-<li>  </li>
-</ul>
-
-**Blockchain Model**\
-<ul>
-<li>  </li>
-<li>  </li>
+<li> Understood internal functionality and parameters for Python and PyPy GC. </li>
+<li> Created custom visualizer to examine performance effects with parameters. </li>
+<li> Compared performance with state-of-the-art GC algorithms. </li>
 </ul>
 
 [Code]()
 
+**Blockchain Model**\
+<ul>
+<li> Developed and implemented a distributed consensus protocol (algorithm) for distributed ledger (Blockchain). </li>
+<li> 1000+ lines of code in Python with socket programming and multiprocessing. </li>
+</ul>
+
+[Code](https://github.com/chippermist/blockchain-multi-paxos)
+
 **Anonymous Elections on Blockchains**\
 <ul>
 <li> Developed and implemented anonymous voting protocol to conceal the voter identities% using zero-knowledge proofs. </li>
-<li> Python \href{https://github.com/grakshith/zk-priv-vote}{implementation} of the protocol scaled efficiently on a private ethereum network with only a linear time overhead compared to the conspicuous protocol </li>
+<li> Python implementation of the protocol scaled efficiently on a private ethereum network with only a linear time overhead compared to the conspicuous protocol. </li>
 </ul>
 
-[Code]() - [Report]() - [Presentation]()
+[Code](https://github.com/grakshith/zk-priv-vote) - [Report]() - [Presentation]()
 
