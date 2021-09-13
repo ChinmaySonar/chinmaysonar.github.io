@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Research
+title: Research-Projects 
 meta-title: Chinmay Sonar - Research-Projects
 ---
 
-## Research Projects
 **Multiwinner Elections under Minimax Chamberlin-Courant Rule in Euclidean Space**\
 **Description:** We consider a *fair and diverse committee selection problem*. Here, the goal is to select a fixed number of candidates (a committee) based on the voters' preferences. The problem encapsulates several application scenarios ranging from choosing representatives in democracies to staff hiring and procurement decisions. An interesting application scenario also includes selecting a fixed number of diverse search results for a query to a search engine. We study the problem when candidates and voters are embedded in a Euclidean space, and voters' preferences are derived from their distance to the candidates. We give several efficient algorithms with appealing *approximate fairness* guarantees.
 
