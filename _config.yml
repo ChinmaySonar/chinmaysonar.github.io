@@ -26,7 +26,7 @@ baseurl: ""
 navbar-links:
   #About Me: "aboutme"
   Research:
-    - Projects: "/Research/research-project"
+    - Projects: "/Research/research-projects"
     - Publications: "/Research/publications"
     - Thesis: "/Research/thesis"
   Projects: "/Projects"

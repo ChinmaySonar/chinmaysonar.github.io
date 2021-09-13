@@ -11,7 +11,7 @@ with Úrsula Hébert-Johnson, Subhash Suri and Vaishali Surianarayanan\
 
 **Equitable Division of a Path**\
 with Neeldhara Misra, P. R. Vaidyanathan and Rohit Vaish\
-*Description:*
+*Description:* We investigate the problem of fairly dividing a set of items placed on a line (path). We make sure that each participating agent gets a contiguous set of items. This setting is relevant in many real-life scenarios (For example, land division among different departments in the university/company). We design an efficient algorithm to compute an 'equitable' allocation.
 
 **Fair Covering of Points by Balls**\
 with Daniel Lokshtanov, Subhash Suri and Jie Xue\
