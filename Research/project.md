@@ -11,7 +11,7 @@ meta-title: Chinmay Sonar - Projects
 <li>  Agent trained for 15k iterations outperforms the individual baseline algorithms for several underlying graph based models. </li>
 </ul>
 
-[Code]() - [Report]()
+[Code]() - [Report](https://chinmaysonar.github.io/Projects/LuongSonarReport.pdf)
 
 **Online Meeting Scheduler**
 <ul>
