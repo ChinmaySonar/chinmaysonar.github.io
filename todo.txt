@@ -1,4 +1,0 @@
-1. Add bibtex on the publications page
-2. Fix resume 
-3. Add CV
-4. Add projects
